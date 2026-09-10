@@ -1097,5 +1097,3 @@ Many classes had their "combined" V enhancement cores restructured due to the mo
 - **Hoyoung**: Muunswaedo core removed, merged into Sealing Gourd/Heavy Stone core; Absorbing Whirlpool/Butterfly Dream core name updated *(document cuts off here)*.
 
 ---
-
-*Note: This translation covers everything visible in the fetched page. The page indicated additional detail sections (Combat Training Room, HEXA Matrix Reset Scroll Support, Change Circulator Support, and expanded Sol Hecate info) that were not fully rendered in the fetched content — likely cut off by pagination on the source site. If you want, I can try fetching those sections specifically.*
